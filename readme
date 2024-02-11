@@ -1,0 +1,24 @@
+Day 1 on Javascript
+
+Javascript is a high-level object-oriented,mulit-praradigm programming language.
+Javascript is a programming language for building web applications like tweets,ig,fb.
+Javascript adds dynamic effects and web applications in the browser and it also has frames works which is React,vue,Angluar,now this is use for frontend dev.
+while Javascript also can be used in backends such has nodejs,
+Javascript also has some new release from Es5 to Es 11 which is 2020.
+
+<!-- ==TIPS to learn and my understanding on them -->
+
+1.Values and variables
+a values is a pics of data that we have in javascripts e.g console.log('emmanuel is a value') and this can be storaged into variable which is inside a box.
+
+N>B in the lesson i alsoleaern about naming convenation like carmo case
+values can have different types depending on the programmer you want to use them on.
+
+2. DATA TYPES
+   value < 1.object
+   2.primitives < and these has 7 types in it which we are going to expain one by one
+   \*.Number > flooating point number e.g let age = 25;
+
+   \*\*.
+   Day 1 on REACT COURSES
+   
